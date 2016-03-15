@@ -1,5 +1,9 @@
+# Unity Tool for Visual Studio
 /Assets/UnityVS*
+
+# Unity Temp Files and Untiy generated VS Project
 /Library
 /Temp
 /*.csproj
 /*.sln
+/*.suo
